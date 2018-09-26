@@ -1,5 +1,5 @@
 {
-  "name": "bitcoind-rpc",
+  "name": "omni-rpc",
   "description": "Bitcoin Client Library to connect to Bitcoin Core via RPC",
   "version": "0.7.2",
   "author": {
